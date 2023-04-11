@@ -1,0 +1,22 @@
+[
+ {
+    "email": "smalbach24@gmail.com",
+    "password": "$2a$10$QAZ9/Z/tx0itXf8orXYOdOJZUXsSODSM/tf.9.Y7HJNFaKuuVSdFG",
+    "firstName" : "Snheidert",
+    "lastName" : "Smalbach",
+    "role" :{
+      "id": 1
+    },
+    "phone" : "3107901492"
+},
+{
+    "email": "user@user.com",
+    "password": "$2a$10$QAZ9/Z/tx0itXf8orXYOdOJZUXsSODSM/tf.9.Y7HJNFaKuuVSdFG",
+    "firstName" : "Snheidert",
+    "lastName" : "Smalbach",
+    "role" :{
+      "id": 2
+    },
+    "phone" : "3107901492"
+}
+]
